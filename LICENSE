@@ -1,0 +1,54 @@
+Stem Mixer End User License Agreement
+
+Copyright © 2026 Tommaso Di Biase. All rights reserved.
+
+1. Grant. Stem Mixer ("the Software") is provided free of charge. You may
+   install and use the Software on any number of Windows and macOS
+   computers you own or control, for personal and professional purposes,
+   including teaching and live performance.
+
+2. Restrictions. You may not (a) sell, rent, lease or sublicense the
+   Software, or charge for its distribution; (b) bundle it with other
+   products for a fee; (c) modify, decompile, reverse engineer or create
+   derivative works of the Software, except where applicable law
+   expressly permits; (d) remove or alter any copyright notice.
+
+3. Your material. The Software processes audio that you choose: files you
+   already have, or links you paste. You are solely responsible for
+   having the right to use that material, including any copyright and
+   the terms of the services it comes from, such as YouTube. The stems,
+   backing tracks and mixes the Software produces remain subject to the
+   rights in the original recording.
+
+4. Online separation. When you choose the MVSEP engine, the song is
+   uploaded to mvsep.com, a third-party service, under its own terms and
+   with your own MVSEP account. The author has no control over that
+   service, its availability, its prices or what it does with the files.
+
+5. Third-party components. The Software is built with, or downloads on
+   your request, the components listed in THIRD-PARTY.md, each under its
+   own license. Nothing in this agreement limits the rights those licenses
+   give you; section 2 applies to Stem Mixer's own code only.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT. Separation by artificial intelligence is never
+   perfect: you use the results at your own risk.
+
+7. Limitation of liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE
+   AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OR
+   INABILITY TO USE THE SOFTWARE, INCLUDING CREDITS OR SEPARATIONS SPENT
+   ON THIRD-PARTY SERVICES.
+
+8. Termination. This license ends automatically if you breach it; you
+   must then stop using and delete the Software.
+
+9. Donations. The Software is and remains free. Any donation you choose
+   to make is voluntary, is not a purchase, and does not entitle you to
+   support, updates or additional features.
+
+10. Governing law. This agreement is governed by the laws of Italy.
+
+Official downloads: https://github.com/dbtswdev/Stem-Mixer
+Contact: dbt.swdev@gmail.com
